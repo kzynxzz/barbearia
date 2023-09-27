@@ -12,4 +12,20 @@ body{
 h1{
     text-alingn:center
 }
-p{text-align:center
+p{text-align:center;
+ }
+#missao{
+    font-size:20px
+    }
+em strong{
+    color:#Ff0000;
+}
+.itens{
+    font-style:italic
+    }
+.beneficios{
+    background:#FFFFFF;
+    padding:20px;
+}
+h2{
+    text-align:
