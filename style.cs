@@ -28,4 +28,9 @@ em strong{
     padding:20px;
 }
 h2{
-    text-align:
+    text-align:center;
+}
+ul{
+    display:inline-block
+        vertical-aling:top;
+    wid
