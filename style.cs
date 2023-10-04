@@ -31,6 +31,11 @@ h2{
     text-align:center;
 }
 ul{
-    display:inline-block
-        vertical-aling:top;
-    wid
+    display:inline-block;
+    vertical-alingn:top;
+    width:20%;
+    margin-right:15%;
+}
+.imagembeneficios{
+    width:50%;
+}
